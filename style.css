@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(190, 178, 178);
+}
+
+body {
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  width: 500px;
+  margin: 50px auto;
+  padding: 35px 85px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+input {
+  width: 60px;
+}
+
+button {
+  padding: 15px;
+  border-radius: 30px;
+  width: 300px;
+  background-color: rgb(190, 178, 178);
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-size: larger;
+}
